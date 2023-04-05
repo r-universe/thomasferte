@@ -8,3 +8,8 @@
 	url = https://github.com/cran/PheVis
 	shallow = true
 	registered = true
+[submodule "reservoirnet"]
+	path = reservoirnet
+	url = https://github.com/cran/reservoirnet
+	shallow = true
+	registered = true
