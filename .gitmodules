@@ -5,6 +5,3 @@
 [submodule "PheVis"]
 	path = PheVis
 	url = https://github.com/cran/PheVis
-[submodule "reservoirnet"]
-	path = reservoirnet
-	url = https://github.com/cran/reservoirnet
